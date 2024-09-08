@@ -31,8 +31,8 @@
 
 Ставим homebrew(при необходимости) и докер через терминал:
 ```shell
-brew install docker
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install docker
 ```
 
 Далее нужно определиться со средой для контейнеров. Из мною рассмотренных:
