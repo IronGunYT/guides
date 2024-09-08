@@ -88,7 +88,7 @@ docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=ПОДСТАВИТЬ_ПАР�
 
 <img src="static/OrbStack-connection.png" alt="screenshot">
 
-Нашимаем `Connect`, `Enable trust server cetificate`. После чего успешно коннектимся к серверу
+Нажимаем `Connect`, `Enable trust server cetificate`. После чего успешно коннектимся к серверу
 
 <img src="static/OrbStack-connected.png" alt="screenshot">
 
